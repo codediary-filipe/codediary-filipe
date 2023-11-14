@@ -12,7 +12,7 @@ Opa, tudo bom? Me chamo Filipe e sou completamente viciado em Tecnologia, Jogos 
  🧠 **Class:** Programador 
     
  ## Tecnologias
-  > Tecnologias utilizadas no meu dia a dia
+  > 🚀 Tecnologias utilizadas no meu dia a dia
   <div>
       <img src="./svg/HTML.svg" style="width:30px; height:30px;">
       <img src="./svg/CSS.svg" style="width:30px; height:30px;">
@@ -28,7 +28,7 @@ Opa, tudo bom? Me chamo Filipe e sou completamente viciado em Tecnologia, Jogos 
   </div>
 
  ## 📰 Atualizações Recentes
-  > Projetos, repositórios  e atualizações
+  > 🖥️ Projetos, repositórios  e atualizações
   - [✨ Modificações no readme do perfil!]
   - [🐛 Novos commits de exercícios do Beecrowd]
   - [📚 Projeto Sistema de jogo de Xadrez]
