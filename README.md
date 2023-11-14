@@ -1,8 +1,7 @@
 # 👋 Bem-vindo ao meu Perfil!
   > 👨🏻‍💻 Sobre me 
   
-    Opa, tudo bom? Me chamo Filipe e sou completamente viciado em Tecnologia, Jogos e Programação!  Me formei em Análise e Desenvolvimento de Sistemas e, quando dei de cara com o desenvolvimento Full Stack, foi tipo amor à primeira vista. Agora, tô mergulhando de cabeça nesse mundo, mesmo que ainda não saiba tudo. Mas uma coisa é certa: cada vez que aprendo algo novo, a animação só aumenta! 😄
-    </p>
+Opa, tudo bom? Me chamo Filipe e sou completamente viciado em Tecnologia, Jogos e Programação!  Me formei em Análise e Desenvolvimento de Sistemas e, quando dei de cara com o desenvolvimento Full Stack, foi tipo amor à primeira vista. Agora, tô mergulhando de cabeça nesse mundo, mesmo que ainda não saiba tudo. Mas uma coisa é certa: cada vez que aprendo algo novo, a animação só aumenta! 😄
 
  ## 📝 Characters
   > 📖 Informações
