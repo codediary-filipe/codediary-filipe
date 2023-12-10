@@ -29,8 +29,8 @@ Opa, tudo bom? Me chamo Filipe e sou completamente viciado em Tecnologia, Jogos 
 
  ## 📰 Atualizações Recentes
   > 🖥️ Projetos, repositórios  e atualizações
+  - [🐛 Novos commits]
   - [✨ Modificações no readme do perfil!]
-  - [🐛 Novos commits de exercícios do Beecrowd]
   - [📚 Projeto Sistema de jogo de Xadrez]
 
 ## 🤝🏻 Contate me
